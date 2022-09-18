@@ -1,1 +1,1 @@
-print("Czesc Natalia!")
+print("Czesc Natalia! Jak się masz?")
